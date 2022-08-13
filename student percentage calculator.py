@@ -10,7 +10,7 @@ percentage = int(input("Enter the obtained precentage: "))
 
 if (percentage >=90):
     print("Your grade is A") 
-elif (percentage >=80 and percentage >90):
+elif (percentage >=80 and percentage <90):
     print("Your grade is B")
 elif (percentage>=70 and percentage <80):
     print("Your grade is C ")
