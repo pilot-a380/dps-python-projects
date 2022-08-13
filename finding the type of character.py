@@ -1,4 +1,4 @@
-#Python project to find the type of character 
+#Python project to find the type of character if it is a alphabet or a number else a special character
 #input the character
 
 
